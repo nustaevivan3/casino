@@ -1,10 +1,10 @@
 {
-  "mode": "false",
+  "mode": "true",
   "links": {
     "1": "https://google.com"
   },
   "non_organic_links": {
-    "keyname1": "link?sub1={name1}&sub2={name2}&sub3={name3}&sub4={apsf_id}&sub5={app_id}"
+    "keyname1": "https://google.com?sub1={name1}&sub2={name2}&sub3={name3}&sub4={apsf_id}&sub5={app_id}"
   },
   "countries": "PT_N"
 }
